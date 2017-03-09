@@ -1,0 +1,8 @@
+E:\RAK 工具C#源文件\RAK473命令配置工具 V1.1\RAK413 Config Tool--2016.6.13--修改升级接口\RAK473 Config Tool C#\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.exe
+E:\RAK 工具C#源文件\RAK473命令配置工具 V1.1\RAK413 Config Tool--2016.6.13--修改升级接口\RAK473 Config Tool C#\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.pdb
+E:\RAK 工具C#源文件\RAK473命令配置工具 V1.1\RAK413 Config Tool--2016.6.13--修改升级接口\RAK473 Config Tool C#\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.exe
+E:\RAK 工具C#源文件\RAK473命令配置工具 V1.1\RAK413 Config Tool--2016.6.13--修改升级接口\RAK473 Config Tool C#\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.pdb
+E:\RAK 工具C#源文件\RAK473命令配置工具 V1.1\RAK413 Config Tool--2016.6.13--修改升级接口\RAK473 Config Tool C#\RAK413 Config Tool\obj\x86\Debug\RAK473 Config Tool.csprojResolveAssemblyReference.cache
+E:\RAK 工具C#源文件\RAK473命令配置工具 V1.1\RAK413 Config Tool--2016.6.13--修改升级接口\RAK473 Config Tool C#\RAK413 Config Tool\obj\x86\Debug\RAK413_Config_Tool.Form1.resources
+E:\RAK 工具C#源文件\RAK473命令配置工具 V1.1\RAK413 Config Tool--2016.6.13--修改升级接口\RAK473 Config Tool C#\RAK413 Config Tool\obj\x86\Debug\RAK4X3_Config_Tool.Properties.Resources.resources
+E:\RAK 工具C#源文件\RAK473命令配置工具 V1.1\RAK413 Config Tool--2016.6.13--修改升级接口\RAK473 Config Tool C#\RAK413 Config Tool\obj\x86\Debug\RAK473 Config Tool.csproj.GenerateResource.Cache
